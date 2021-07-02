@@ -3,4 +3,5 @@
 git init
 git add .
 git commit -a -m 'task2'
+#git remote add task2 git@github.com:shepelieva/task2.git
 git push -u task2 master
